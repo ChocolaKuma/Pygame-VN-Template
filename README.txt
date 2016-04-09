@@ -10,7 +10,7 @@ Background is stored under the name "bedroom.jpg"
 Charter Sprites ae stored under "i_happy.png"
 
 
-So far this is kinda cluncky but Ill be tweaking it soon
+So far this is kinda cluncky but Ill be tweaking it soon   EDIT:This Has Been Droped
 
 Best of luck,
 Johnathan Hinebrook (juggalojohn)
